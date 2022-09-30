@@ -1,0 +1,11 @@
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\bin\Debug\sgbd1.exe.config
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\bin\Debug\sgbd1.exe
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\bin\Debug\sgbd1.pdb
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.csproj.AssemblyReference.cache
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.csproj.SuggestedBindingRedirects.cache
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.Form1.resources
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.Properties.Resources.resources
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.csproj.GenerateResource.cache
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.csproj.CoreCompileInputs.cache
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.exe
+C:\Users\b4d3r\source\repos\sgbd1\sgbd1\obj\Debug\sgbd1.pdb
