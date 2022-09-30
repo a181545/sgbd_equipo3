@@ -1,0 +1,11 @@
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\bin\Debug\ProyectoADBDD.exe.config
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\bin\Debug\ProyectoADBDD.exe
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\bin\Debug\ProyectoADBDD.pdb
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.csproj.AssemblyReference.cache
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.Form1.resources
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.Properties.Resources.resources
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.csproj.GenerateResource.cache
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.csproj.CoreCompileInputs.cache
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.exe
+C:\Users\geors\source\repos\ProyectoADBDD\ProyectoADBDD\obj\Debug\ProyectoADBDD.pdb
