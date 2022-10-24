@@ -1,0 +1,11 @@
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\bin\Debug\PantallasPCs.exe.config
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\bin\Debug\PantallasPCs.exe
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\bin\Debug\PantallasPCs.pdb
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.csproj.AssemblyReference.cache
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.csproj.SuggestedBindingRedirects.cache
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.Form1.resources
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.Properties.Resources.resources
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.csproj.GenerateResource.cache
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.csproj.CoreCompileInputs.cache
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.exe
+C:\Users\b4d3r\source\repos\PantallasPCs\PantallasPCs\obj\Debug\PantallasPCs.pdb
