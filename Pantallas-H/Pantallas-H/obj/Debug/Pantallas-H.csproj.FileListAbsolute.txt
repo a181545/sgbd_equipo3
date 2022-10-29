@@ -1,0 +1,12 @@
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\bin\Debug\Pantallas-H.exe.config
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\bin\Debug\Pantallas-H.exe
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\bin\Debug\Pantallas-H.pdb
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas-H.csproj.AssemblyReference.cache
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas-H.csproj.SuggestedBindingRedirects.cache
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas_H.Properties.Resources.resources
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas-H.csproj.GenerateResource.cache
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas-H.csproj.CoreCompileInputs.cache
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas-H.exe
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas-H.pdb
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas_H.Pantalla_Edicion.resources
+C:\Users\b4d3r\source\repos\Pantallas-H\Pantallas-H\obj\Debug\Pantallas_H.Pantalla_Equipos.resources
